@@ -1,0 +1,19 @@
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Trees.exe.config
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Trees.exe
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Trees.pdb
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Tree234Classes.dll
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\WorldTreeClasses.dll
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Tree234Classes.pdb
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\WorldTreeClasses.pdb
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\TreesDriver.csprojAssemblyReference.cache
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\TreesDriver.csproj.CoreCompileInputs.cache
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\TreesDriver.csproj.CopyComplete
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.exe
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.pdb
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\obj\Debug\TreesDriver.csprojAssemblyReference.cache
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\obj\Debug\TreesDriver.csproj.CoreCompileInputs.cache
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab5\Trees\Trees\obj\Debug\Trees.pdb

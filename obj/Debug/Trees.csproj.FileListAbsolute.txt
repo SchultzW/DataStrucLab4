@@ -1,0 +1,12 @@
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Trees.exe.config
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Trees.exe
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Trees.pdb
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Tree234Classes.dll
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\WorldTreeClasses.dll
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\Tree234Classes.pdb
+D:\GitRepos\CS260\Lab5\Trees\Trees\bin\Debug\WorldTreeClasses.pdb
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.csprojAssemblyReference.cache
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.csproj.CopyComplete
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.exe
+D:\GitRepos\CS260\Lab5\Trees\Trees\obj\Debug\Trees.pdb
